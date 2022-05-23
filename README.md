@@ -1,5 +1,5 @@
 # hello-world
-Initial readings, ideas, scripts for re-education of coding.
+Initial readings, ideas, scripts for re-education of coding. My 'tech job' is boring and far from feeling like I work in tech. I miss the basic coding I did in high school and college, so let's play.
 
 ### Plans
 1. Review basic **python** syntax
