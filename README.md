@@ -5,4 +5,4 @@ Initial readings, ideas, scripts for re-education of coding.
 1. Review basic **python** syntax
 2. Learn **data ingestion** strategies
 3. Play around with basic algorithms
-4. Reacreate *Seven Degrees of Kevin Bacon* game(?)
+4. Recreate *Seven Degrees of Kevin Bacon* game(?)
